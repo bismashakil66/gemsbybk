@@ -1,0 +1,33 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #d1bba4;
+  color: #333;
+}
+
+.bg-maroon {
+  background-color: #7b2d26;
+}
+
+.btn-maroon {
+  background-color: #7b2d26;
+  color: #fff;
+}
+
+.btn-maroon:hover {
+  background-color: #5e1f1a;
+}
+
+.hero-section {
+  background: url('images/hero-bg.jpg') no-repeat center center/cover;
+  height: 80vh;
+}
+
+.card img {
+  height: 300px;
+  object-fit: cover;
+}
+
+.navbar-nav .nav-link {
+  margin-left: 15px;
+  font-weight: 500;
+}
